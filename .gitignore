@@ -73,3 +73,11 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# isolate mod files
+AccessTransformers/*
+Alpakit/*
+ExampleMod/*
+SML/*
+SMLEditor/*
+WwisePatches/*
