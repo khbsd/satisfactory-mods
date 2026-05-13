@@ -1,7 +1,8 @@
 #pragma once
+#include "GameWorldModule.h"
 #include "ModuleInterface.h"
 
-class VaporizedModule : public IModuleInterface
+class VAPORIZED_API VaporizedModule : public IModuleInterface
 {
 public:
 	virtual void StartupModule() override;
